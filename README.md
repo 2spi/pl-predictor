@@ -1,5 +1,5 @@
 # Football (EPL) Win Prediction Model
-This repository contains the code and resources for a machine learning project that aims to predict the chance of winning a match for a given football team. 
+This repository contains the code and resources for a machine learning project that aims to predict the chance of a football team winning a match.
 
 ### Project Overview
 The Football Winning Percentage Prediction project utilizes machine learning techniques to forecast the likelihood of a football team winning a match. The project leverages historical data from the past three seasons (2020-21, 2021-22, and 2022-23) to train and evaluate the prediction models.
